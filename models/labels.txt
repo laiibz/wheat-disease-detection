@@ -1,0 +1,8 @@
+Aphid
+Black_Rust
+Fusarium
+Healthy
+Leaf_Blight
+Not_Wheat
+Smut
+Yellow_Rust
